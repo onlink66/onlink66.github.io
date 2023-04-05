@@ -1,1 +1,8 @@
-﻿测试频道,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+﻿CCTV01 综合,#genre#
+线路①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+线路②,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+线路③,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+CCTV02 财经,#genre#
+线路①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+线路②,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+线路③,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
